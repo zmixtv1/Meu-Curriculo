@@ -1,2 +1,2 @@
-# Meu-Curriculo
- Curriculum Vitae no HTML
+# curriculo2.0
+ responsividade do curriculo 

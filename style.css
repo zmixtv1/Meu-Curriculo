@@ -1,0 +1,53 @@
+
+body{
+    background-image: url('melhor.jpg');
+    background-repeat: repeat-y;
+    background-size:100%;
+    background-attachment: fixed;
+    left: 0;
+    overflow: initial;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    top: 0;
+    color: white;
+    font-weight: 300;
+    width: 48%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+div{
+    margin-top: 20px ;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#linha {
+    border-bottom: 1px solid #ffffff;
+}
+
+img{
+    max-width: 150px;
+    border-radius: 50px;
+    border-style: double;
+    color: aqua;
+    width: 40%;
+    float: right;
+    margin-top: -25px;
+}
+h1{
+    text-align: center;
+}
+
+h5{
+    text-align: right;
+}
+
+.gmail{
+    color: aqua;
+}
+.telefone{
+    color: aqua;
+}

@@ -51,3 +51,6 @@ h5{
 .telefone{
     color: aqua;
 }
+th{
+    text-align: left;
+}

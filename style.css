@@ -54,3 +54,8 @@ h5{
 th{
     text-align: left;
 }
+@media (max-width: 1000px){
+    body{
+        background-image: url("melhor3.0.jpg");
+    }
+}

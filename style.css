@@ -1,9 +1,10 @@
 
 body{
     background-image: url('melhor.jpg');
-    background-repeat: repeat-y;
+    background-repeat: no-repeat;
     background-size:100%;
     background-attachment: fixed;
+    background-position: center;
     left: 0;
     overflow: initial;
     padding: 3em;
@@ -54,7 +55,8 @@ h5{
 th{
     text-align: left;
 }
-@media (min-width: 1000px){
+
+@media (max-width: 1000px){
     body{
         background-image: url("melhor3.0.jpg");
     }

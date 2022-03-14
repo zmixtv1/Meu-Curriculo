@@ -1,2 +1,2 @@
 # curriculo2.0
- responsividade do curriculo 
+Foi meu primeiro projeto solo com todas as matérias que estudei na faculdade e fora dela.
